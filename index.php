@@ -665,7 +665,7 @@
           <div class="row">
             <div class="col-lg-3 text-center">
               <h5  class="text-center font-weight-bold mb-3 block-title__title">Order Now</h5>
-              <a href="#" class="btn btn-success" style="width: 300px;">Request a Quotations</a>
+              <a href="#" class="btn btn-success" style="width: 300px;">Request a Quotation</a>
             </div>
             <div class="col-lg-9" style="border-left: 1px solid #17354f;">
               <p class="my-4">Thank you for considering Screenwide Printing for your printing needs. Our commitment to excellence, state-of-the-art technology, and a dedicated team ensure your projects are in good hands. Get in touch today to request a quotation and experience top-tier printing services tailored to your requirements</p>
@@ -720,8 +720,7 @@
                     <p>89360837 / 89277490</p>
                     <p>teamscreenwide@gmail.com</p>
                     <p>
-                      66 Road Broklyn Street, 600 <br />
-                      New York, USA
+                      Blk 11 Lot 28 Commonwealth Ave.  <br> Brgy Holy Spirit Quezon City
                     </p>
                   </div>
                   <!-- /.footer-widget -->

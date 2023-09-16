@@ -481,8 +481,7 @@
                     <p>89360837 / 89277490</p>
                     <p>teamscreenwide@gmail.com</p>
                     <p>
-                      66 Road Broklyn Street, 600 <br />
-                      New York, USA
+                      Blk 11 Lot 28 Commonwealth Ave.  <br> Brgy Holy Spirit Quezon City
                     </p>
                   </div>
                   <!-- /.footer-widget -->
