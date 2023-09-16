@@ -35,7 +35,7 @@
             </div>
             <!-- /.social-block -->
             <div class="logo-block">
-              <a href="index.html"
+              <a href="index.php"
                 ><img src="images/resources/logo-1-1.png" alt="Awesome Image"
               /></a>
             </div>
@@ -68,13 +68,13 @@
             <div class="main-navigation" id="main-nav-bar">
               <ul class="navigation-box">
                 <li>
-                  <a href="index.html">Home</a>
+                  <a href="index.php">Home</a>
                 </li>
-                <li class="current"><a href="about.html">About Us</a></li>
+                <li class="current"><a href="about.php">About Us</a></li>
                 <li>
-                  <a href="service.html">Our Services</a>
+                  <a href="service.php">Our Services</a>
                 </li>
-                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
               </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -283,7 +283,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <div class="content-block">
-                  <a href="index.html"
+                  <a href="index.php"
                     ><img
                       src="images/resources/logo-1-2.png"
                       alt="Awesome Image"
@@ -330,10 +330,10 @@
                     </div>
                     <!-- /.widget-title -->
                     <ul class="link-list">
-                      <li><a href="index.html">Home</a></li>
-                      <li><a href="about.html">About Us</a></li>
-                      <li><a href="service.html">Our Services</a></li>
-                      <li><a href="contact.html">Contact Us</a></li>
+                      <li><a href="index.php">Home</a></li>
+                      <li><a href="about.php">About Us</a></li>
+                      <li><a href="service.php">Our Services</a></li>
+                      <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                     <!-- /.link-list -->
                   </div>
