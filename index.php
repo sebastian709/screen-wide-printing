@@ -76,8 +76,11 @@
                    
                   <!-- /.sub-menu -->
                 </li>
-                 
+                <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
+                <li>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd98EGVoaJiR52Sc92ifsLqOlyioNlHXfOcjYyVht9iP-BLpA/viewform?pli=1">Request a Quotation</a>
+                </li>
               </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -100,7 +103,7 @@
         <section class="banner-style-one owl-theme owl-carousel">
           <div
             class="slide slide-one"
-            style="background-image: url(images/homecontentpicture/1.png)"
+            style="background-image: url(images/homecontentpicture/4.jpg)"
           >
             <div class="container">
               <div class="row">
@@ -125,7 +128,7 @@
           <!-- /.slide -->
           <div
             class="slide slide-one"
-            style="background-image: url(images/homecontentpicture/2.png)"
+            style="background-image: url(images/homecontentpicture/5.jpg)"
           >
             <div class="container">
               <div class="row">
@@ -146,7 +149,7 @@
           <!-- /.slide -->
           <div
             class="slide slide-one"
-            style="background-image: url(images/homecontentpicture/3.png)"
+            style="background-image: url(images/homecontentpicture/6.jpg)"
           >
             <div class="container">
               <div class="row">
@@ -388,7 +391,7 @@
                 <!-- /.service-one__image -->
                 <div class="service-one__text-block">
                   <h3 class="service-one__title">
-                    <a href="single-service.php">Digital Printing<br>Fujifilm picture</a>
+                    <a href="javascript:void(0);">Digital Printing</a>
                   </h3>
                   <!-- /.service-one__title -->
                   <p class="service-one__text">
@@ -413,7 +416,7 @@
                 <!-- /.service-one__image -->
                 <div class="service-one__text-block">
                   <h3 class="service-one__title">
-                    <a href="single-service.php">Offset Printing <br> heidelberg</a>
+                    <a href="javascript:void(0);">Offset Printing</a>
                   </h3>
                   <!-- /.service-one__title -->
                   <p class="service-one__text">
@@ -438,7 +441,7 @@
                 <!-- /.service-one__image -->
                 <div class="service-one__text-block">
                   <h3 class="service-one__title">
-                    <a href="single-service.php">Large Format Printing</a>
+                    <a href="javascript:void(0);">Large Format Printing</a>
                   </h3>
                   <!-- /.service-one__title -->
                   <p class="service-one__text">
@@ -523,42 +526,11 @@
       <section class="cta-two">
         <div class="container">
           <div class="row">
-            <div class="col-lg-4 d-flex">
-              <div class="cta-two__content my-auto">
-                <div class="block-title">
-                  <p class="block-title__tag-line block-title__light-color">
-                    Stationery Printing
-                  </p>
-                  <h2 class="block-title__title block-title__light-color">
-                    Order for Business <br />
-                    Stuff
-                  </h2>
-                </div>
-                <!-- /.block-title -->
-                <ul class="cta-two__features">
-                  <li class="cta-two__features-item">
-                    <i class="fa fa-check"></i>Inquiry and Quotation Request
-                  </li>
-                  <li class="cta-two__features-item">
-                    <i class="fa fa-check"></i>Inquiry and Quotation Request
-                  </li>
-                  <li class="cta-two__features-item">
-                    <i class="fa fa-check"></i>Design Approval and Printing
-                  </li>
-                  <li class="cta-two__features-item">
-                    <i class="fa fa-check"></i>Delivery of Finished Product
-                  </li>
-                </ul>
-                <!-- /.cta-two__features -->
-              </div>
-              <!-- /.cta-two__content -->
-            </div>
             <!-- /.col-lg-6 -->
-            <div class="col-lg-8">
+            <div class="col-lg-12 text-center">
               <img
                 src="images/resources/order.jpg"
                 alt="Awesome Image"
-                class="float-left"
               />
             </div>
             <!-- /.col-lg-6 -->
@@ -568,104 +540,14 @@
         <!-- /.container -->
       </section>
       <!-- /.cta-two -->
-      <section class="about-one sec-pad-top">
-        <div class="container">
-          <div class="block-title text-center">
-            <p class="block-title__tag-line">Our Introduction</p>
-            <h2 class="block-title__title">About Screenwide</h2>
-          </div>
-          <!-- /.block-title -->
-          <div class="row">
-            <div class="col-lg-12">
-              <h3 class="text-center">VISION</h3>
-              <p class="text-center">Our vision is to be the trailblazers in redefining the future of print media. We envision a world where printed materials transcend their traditional role, becoming powerful agents of engagement and inspiration, enriching lives and transforming the way brands connect with their audiences.</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-lg-12 mb-5">
-              <h3 class="text-center">MISSION</h3>
-              <p class="text-center">Our mission is to pioneer a new era in the printing industry, combining innovation, creativity, and sustainability. We utilize cutting-edge technologies while honoring traditional craftsmanship to deliver unparalleled printing solutions that captivate audiences and elevate brands. As responsible custodians of the environment, we prioritize sustainability in all aspects of our operations, inspiring positive change within the industry. We foster strong relationships with clients, employees, and communities, contributing to the betterment of society. As pioneers and leaders in the market, we embrace challenges, striving for excellence and continuously pushing the boundaries of transformative printing solutions. Screenwide Printing Advertising Corporation is more than a printing company; we are a partner in success, a champion of innovation, and a source of inspiration for our clients, empowering businesses and making the world a more vibrant place.</p>
-            </div>
-          </div>
-          <!-- /.row -->
-        </div>
-        <!-- /.container -->
-      </section>
-      <section class="price-one thm-black-bg text-light text-justify">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12 my-5">
-              <h3 class="text-center my-3">CORE VALUES</h3>  
-              <div class="container-fluid">
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>STRIVE FOR INNOVATION</b> - We foster a culture of constant exploration and curiosity, pushing the boundaries of the printing industry through innovative thinking and the adoption of cutting-edge technologies.</p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>CULTIVATE CREATIVITY</b> - We encourage our team and clients to think beyond conventions, challenge the status quo, and bring visionary ideas to life through exceptional print experiences.</p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>EMBRACE SUSTAINABILITY</b> - We foster a culture of constant exploration and curiosity, pushing the boundaries of the printing industry through innovative thinking and the adoption of cutting-edge technologies.</p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>Excellence in Everything</b> - We strive for unparalleled excellence, ensuring that our printing solutions captivate audiences and leave a lasting impression on our clients and their target audiences.</p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>Empower Partnerships</b> - We value strong relationships with our clients, employees, and communities, working collaboratively to co-create solutions that contribute to the betterment of society and a brighter, sustainable future.</p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>Champion Positive Change</b> - As catalysts for positive change, we embrace our role in driving initiatives that make a positive impact on both the industry and society, inspiring others to join us on our transformative journey.
-                    </p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>Adapt with agility</b> - As pioneers in the field, we thrive on embracing challenges and adapt to emerging trends, remaining at the forefront of transformative printing solutions and continuously evolving to meet the dynamic needs of our clients.</p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>Ignite passion for impact</b> - We are driven by a genuine passion to turn ideas into realities, making a significant impact on the businesses we serve and contributing to the vibrancy and richness of the world through powerful print media.</p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>Build trust and reliability</b> - Our commitment to delivering exceptional printing services is grounded in building trust with our clients, ensuring reliability in our processes, and consistently surpassing expectations.
-                    </p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p><b>Empowerment and support</b> - We empower our team members, clients, and communities with the tools and resources they need to succeed, fostering a supportive environment that encourages growth and success for all.</p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-lg-12">
-                    <p style="font-weight: bold;"> We empower our team members, clients, and communities with the tools and resources they need to succeed, fostering a supportive environment that encourages growth and success for all.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
       <!-- /.about-one -->
       <section class="price-one sec-pad sec-pad-content-margin-30 thm-gray-bg">
         <div class="container-fluid">
           <div class="row">
             <div class="col-lg-3 text-center">
               <h5  class="text-center font-weight-bold mb-3 block-title__title">Order Now</h5>
-              <a href="#" class="btn btn-success" style="width: 300px;">Request a Quotation</a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSd98EGVoaJiR52Sc92ifsLqOlyioNlHXfOcjYyVht9iP-BLpA/viewform?pli=1" class="btn btn-success" style="width: 300px;">Request a Quotation</a>
             </div>
             <div class="col-lg-9" style="border-left: 1px solid #17354f;">
               <p class="my-4">Thank you for considering Screenwide Printing for your printing needs. Our commitment to excellence, state-of-the-art technology, and a dedicated team ensure your projects are in good hands. Get in touch today to request a quotation and experience top-tier printing services tailored to your requirements</p>

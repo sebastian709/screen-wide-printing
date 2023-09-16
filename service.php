@@ -71,8 +71,11 @@
                   <a href="service.php">Our Services</a>
                   <!-- /.sub-menu -->
                 </li>
-                 
+                <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
+                <li>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd98EGVoaJiR52Sc92ifsLqOlyioNlHXfOcjYyVht9iP-BLpA/viewform?pli=1">Request a Quotation</a>
+                </li>
               </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -96,7 +99,7 @@
           <h2 class="inner-banner__title">Services Page</h2>
           <!-- /.inner-banner__title -->
           <ul class="thm-breadcrumb">
-            <li class="thm-breadcrumb__item"><a href="#">Home</a></li>
+            <li class="thm-breadcrumb__item"><a href="index.php">Home</a></li>
             <li class="thm-breadcrumb__item"><span>Services Page</span></li>
           </ul>
           <!-- /.breadcrumb -->
@@ -372,7 +375,7 @@
                 <!-- /.service-one__image -->
                 <div class="service-one__text-block">
                   <h3 class="service-one__title">
-                    <a href="single-service.php">Digital Printing<br>Fujifilm picture</a>
+                    <a href="javascript:void(0);">Digital Printing</a>
                   </h3>
                   <!-- /.service-one__title -->
                   <p class="service-one__text">
@@ -397,7 +400,7 @@
                 <!-- /.service-one__image -->
                 <div class="service-one__text-block">
                   <h3 class="service-one__title">
-                    <a href="single-service.php">Offset Printing <br> heidelberg</a>
+                    <a href="javascript:void(0);">Offset Printing</a>
                   </h3>
                   <!-- /.service-one__title -->
                   <p class="service-one__text">
@@ -422,7 +425,7 @@
                 <!-- /.service-one__image -->
                 <div class="service-one__text-block">
                   <h3 class="service-one__title">
-                    <a href="single-service.php">Large Format Printing</a>
+                    <a href="javascript:void(0);">Large Format Printing</a>
                   </h3>
                   <!-- /.service-one__title -->
                   <p class="service-one__text">

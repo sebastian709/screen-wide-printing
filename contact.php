@@ -72,8 +72,11 @@
                    
                   <!-- /.sub-menu -->
                 </li>
-                 
+                <li><a href="gallery.php">Gallery</a></li>
                 <li class="current"><a href="contact.php">Contact Us</a></li>
+                <li>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd98EGVoaJiR52Sc92ifsLqOlyioNlHXfOcjYyVht9iP-BLpA/viewform?pli=1">Request a Quotation</a>
+                </li>
               </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -97,7 +100,7 @@
           <h2 class="inner-banner__title">Contact Us</h2>
           <!-- /.inner-banner__title -->
           <ul class="thm-breadcrumb">
-            <li class="thm-breadcrumb__item"><a href="#">Home</a></li>
+            <li class="thm-breadcrumb__item"><a href="index.php">Home</a></li>
             <li class="thm-breadcrumb__item"><span>Contact Us</span></li>
           </ul>
           <!-- /.breadcrumb -->

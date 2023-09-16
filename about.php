@@ -74,7 +74,11 @@
                 <li>
                   <a href="service.php">Our Services</a>
                 </li>
+                <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
+                <li>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd98EGVoaJiR52Sc92ifsLqOlyioNlHXfOcjYyVht9iP-BLpA/viewform?pli=1">Request a Quotation</a>
+                </li>
               </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -98,7 +102,7 @@
           <h2 class="inner-banner__title">About Us</h2>
           <!-- /.inner-banner__title -->
           <ul class="thm-breadcrumb">
-            <li class="thm-breadcrumb__item"><a href="#">Home</a></li>
+            <li class="thm-breadcrumb__item"><a href="index.php">Home</a></li>
             <li class="thm-breadcrumb__item"><span>About Us</span></li>
           </ul>
           <!-- /.breadcrumb -->
@@ -123,69 +127,7 @@
         </div>
         <!-- /.container -->
       </section>
-      <section class="testimonial-one">
-        <div class="container">
-          <div class="testimonial-one__carousel owl-theme owl-carousel">
-            <div class="item">
-              <div class="testimonial-one__single">
-                <div class="testimonial-one__image">
-                  <img
-                    src="images/testimonials/jaam.jpg"
-                    alt="Awesome Image"
-                  />
-                </div>
-                <!-- /.testimonial-one__image -->
-                <p class="testimonial-one__text">
-                  “Screenwide has transformed our restaurant! The menus they printed perfectly showcase our cuisine, impressing customers with their amazing look and careful design. "
-                </p>
-                <!-- /.testimonial-one__text -->
-                <h4 class="testimonial-one__name">Jaam Seafoods</h4>
-              </div>
-              <!-- /.testimonial-one__single -->
-            </div>
-            <!-- /.item -->
-            <div class="item">
-              <div class="testimonial-one__single">
-                <div class="testimonial-one__image">
-                  <img
-                    src="images/testimonials/vitality.jpg"
-                    alt="Awesome Image"
-                  />
-                </div>
-                <!-- /.testimonial-one__image -->
-                <p class="testimonial-one__text">
-                  "They created my menu, sticker….all I can say is, it’s Perfect!"
-                </p>
-                <!-- /.testimonial-one__text -->
-                <h4 class="testimonial-one__name">Vitality Spa</h4>
-              </div>
-              <!-- /.testimonial-one__single -->
-            </div>
-            <!-- /.item -->
-            <div class="item">
-              <div class="testimonial-one__single">
-                <div class="testimonial-one__image">
-                  <img
-                    src="images/testimonials/maria.jpg"
-                    alt="Awesome Image"
-                  />
-                </div>
-                <!-- /.testimonial-one__image -->
-                <p class="testimonial-one__text">
-                  "I rely on print quality to showcase my work. Screenwide Printing has always exceeded my expectations. Their color accuracy and paper choices are exceptional, making my designs shine."
-                </p>
-                <!-- /.testimonial-one__text -->
-                <h4 class="testimonial-one__name">Maria</h4>
-              </div>
-              <!-- /.testimonial-one__single -->
-            </div>
-            <!-- /.item -->
-          </div>
-          <!-- /.testimonial-one__carousel -->
-        </div>
-        <!-- /.container -->
-      </section>
-      <section class="about-one sec-pad-top">
+      <section class="about-one">
         <div class="container">
           <div class="block-title text-center">
             <p class="block-title__tag-line">Our Introduction</p>
